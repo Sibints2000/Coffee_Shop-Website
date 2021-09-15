@@ -383,9 +383,17 @@ section {
 }
 
 .book {
-    background: url(./image/book-bg.jpg);
+    background: url(./image/book-bg.jpg) no-repeat;
     background-position: center;
     background-size: cover;
+}
+
+.book form {
+    margin: 0 auto 2rem auto;
+    max-width: 60rem;
+    border-radius: var(--border-radius-hover);
+    padding: 3rem;
+    border: var(--border);
 }
 
 
