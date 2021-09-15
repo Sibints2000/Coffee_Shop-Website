@@ -27,6 +27,10 @@ html {
     scroll-behavior: smooth;
 }
 
+section {
+    padding: 2rem 9%;
+}
+
 .btn {
     display: inline-block;
     padding: .9rem 1.5rem;
@@ -112,6 +116,10 @@ html {
     }
 
     .header {
+        padding: 2rem;
+    }
+
+    section {
         padding: 2rem;
     }
     
