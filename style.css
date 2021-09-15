@@ -217,6 +217,14 @@ section {
         padding: 1.5rem 2rem;
     }
 
+    .home {
+        text-align: center;
+    }
+
+    .home .row .content h3 {
+        font-size: 4rem;
+    }
+
 }
 
 @media(max-width:450px) {
