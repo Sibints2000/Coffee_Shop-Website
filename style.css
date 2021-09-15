@@ -331,6 +331,10 @@ section {
     top: -6rem;
 }
 
+.review .review-slider .box:hover .fa-quote-right {
+    bottom: -6rem;
+}
+
 
 
 
