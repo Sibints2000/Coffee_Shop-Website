@@ -249,6 +249,13 @@ section {
     background-size: cover;
 }
 
+.menu .box-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+}
+
 
 
 
