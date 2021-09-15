@@ -318,6 +318,15 @@ section {
     z-index: -1;
 }
 
+.review .review-slider .box .fa-quote-right {
+    position: absolute;
+    bottom: 2rem;
+    right: 2.5rem;
+    font-size: 6rem;
+    color: #ccc;
+    z-index: -1;
+}
+
 
 
 
