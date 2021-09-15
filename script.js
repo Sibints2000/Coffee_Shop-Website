@@ -16,6 +16,12 @@ document.querySelectorAll('.image-slider img').forEach(images => {
     images.onclick = () => {
         var src = images.getAttribute('src');
         document.querySelector('.main-home-image').src = src;
-    }
+    };
 
 });
+
+var swiper = new Swiper(".review-slider", {
+        pagination: {
+          el: ".swiper-pagination",
+        },
+      });
