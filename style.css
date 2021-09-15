@@ -267,6 +267,11 @@ section {
     margin-left: 6rem;
 }
 
+.menu .box-container .box:hover {
+    border: var(--border-hover);
+    border-radius: var(--border-radius-hover);
+}
+
 
 
 
