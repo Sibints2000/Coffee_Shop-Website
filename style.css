@@ -309,6 +309,15 @@ section {
     padding: 2rem;
 }
 
+.review .review-slider .box .fa-quote-left {
+    position: absolute;
+    top: 2rem;
+    left: 2.5rem;
+    font-size: 6rem;
+    color: #ccc;
+    z-index: -1;
+}
+
 
 
 
