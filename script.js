@@ -21,7 +21,13 @@ document.querySelectorAll('.image-slider img').forEach(images => {
 });
 
 var swiper = new Swiper(".review-slider", {
-        pagination: {
-          el: ".swiper-pagination",
-        },
-      });
+    spaceBetween: 20,
+    pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+    },
+    autoplay: {
+        delay: 2500,
+        disableOnInteraction: false,
+    },
+});
