@@ -327,6 +327,10 @@ section {
     z-index: -1;
 }
 
+.review .review-slider .box:hover .fa-quote-left {
+    top: -6rem;
+}
+
 
 
 
