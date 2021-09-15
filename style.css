@@ -408,6 +408,15 @@ section {
     margin: .7rem 0;
 }
 
+.book form .box:focus {
+    border: var(--border-hover);
+}
+
+.book form textarea {
+    height: 15rem;
+    resize: none;
+}
+
 
 
 
