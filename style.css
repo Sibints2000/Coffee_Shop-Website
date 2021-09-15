@@ -335,6 +335,12 @@ section {
     bottom: -6.5rem;
 }
 
+.review .review-slider .box img {
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+}
+
 
 
 
