@@ -182,7 +182,7 @@ section {
 }
 
 .about .row .image {
-    flex:  1 1 42rem;
+    flex: 1 1 42rem;
 }
 
 .about .row .image img {
@@ -191,10 +191,13 @@ section {
 }
 
 @keyframes aboutImage {
-    0%, 100% {
+
+    0%,
+    100% {
         transform: scale(.9);
         border-radius: var(--border-radius-hover);
     }
+
     50% {
         transform: scale(.8);
         border-radius: var(--border-radius);
