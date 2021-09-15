@@ -116,7 +116,7 @@ html {
     
 }
 
-@media(max-width:7680px) {
+@media(max-width:768px) {
 
     #menu-btn {
         display: initial;
@@ -128,6 +128,14 @@ html {
         left: 0;
         right: 0;
         background: #fff;
+        clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+    }
+
+    .header .navbar a {
+        display: block;
+        font-size: 2.2rem;
+        margin: 0;
+        padding: 1.5rem 2rem;
     }
 
 }
