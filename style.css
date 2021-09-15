@@ -283,6 +283,13 @@ section {
     line-height: 1.8;
 }
 
+.menu .box-container .box .content p {
+    font-size: 1.6rem;
+    color: var(--main-color);
+    line-height: 1.8;
+    padding: 1rem 0;
+}
+
 
 
 
