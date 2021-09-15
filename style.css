@@ -221,6 +221,16 @@ section {
     border-radius: var(--border-radius);
 }
 
+.about .row .content .icons-container .icons img {
+    height: 5rem;
+}
+
+.about .row .content .icons-container .icons h3 {
+    font-size: 1.7rem;
+    padding-top: 1rem;
+    color: var(--main-color);
+}
+
 
 
 
