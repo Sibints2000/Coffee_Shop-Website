@@ -49,3 +49,9 @@ html {
 .header .logo i {
     padding-left: .5rem;
 }
+
+.header .navbar a {
+    margin: 0 1rem;
+    font-size: 1.7rem;
+    color: var(--main-color);
+}
