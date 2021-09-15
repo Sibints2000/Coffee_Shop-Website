@@ -27,6 +27,18 @@ html {
     scroll-behavior: smooth;
 }
 
+.btn {
+    display: inline-block;
+    padding: .9rem 1.5rem;
+    border-radius: var(--border-radius);
+    color: var(--main-color);
+    background: none;
+    border: var(--border);
+    cursor: pointer;
+    margin-top: 1rem;
+    font-size: 1.7rem;
+}
+
 .header {
     position: fixed;
     top: 0;
