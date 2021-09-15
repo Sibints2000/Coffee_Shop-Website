@@ -243,6 +243,14 @@ section {
     color: var(--main-color);
 }
 
+.menu {
+    min-height: 100vh;
+    padding-top: 12rem;
+    background: url(./image/home-bg.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
 
 
 
