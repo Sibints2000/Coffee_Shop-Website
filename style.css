@@ -109,5 +109,21 @@ html {
     html {
         font-size: 55%;
     }
+
+    .header {
+        padding: 2rem;
+    }
     
+}
+
+@media(max-width:450px) {
+
+    html {
+        font-size: 55%;
+    }
+
+    .header {
+        padding: 2rem;
+    }
+
 }
