@@ -404,6 +404,8 @@ section {
     background: none;
     text-transform: none;
     color: var(--main-color);
+    border: var(--border);
+    margin: .7rem 0;
 }
 
 
