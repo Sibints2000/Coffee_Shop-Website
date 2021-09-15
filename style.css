@@ -128,6 +128,12 @@ section {
 
 }
 
+.home .row .content h3 {
+    font-size: 6.5rem;
+    color: var(--main-color);
+    text-transform: uppercase;
+}
+
 
 
 
