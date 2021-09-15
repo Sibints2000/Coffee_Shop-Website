@@ -272,6 +272,11 @@ section {
     border-radius: var(--border-radius-hover);
 }
 
+.menu .box-container .box img {
+    height: 8rem;
+    margin-left: -6rem;
+}
+
 
 
 
