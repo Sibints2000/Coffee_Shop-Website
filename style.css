@@ -119,9 +119,12 @@ section {
 }
 
 @keyframes float {
-    0%, 100% {
+
+    0%,
+    100% {
         transform: translateY(0rem);
     }
+
     50% {
         transform: translateY(-7rem);
     }
@@ -184,7 +187,7 @@ section {
     section {
         padding: 2rem;
     }
-    
+
 }
 
 @media(max-width:768px) {
