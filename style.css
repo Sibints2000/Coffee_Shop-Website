@@ -328,11 +328,11 @@ section {
 }
 
 .review .review-slider .box:hover .fa-quote-left {
-    top: -6rem;
+    top: -6.5rem;
 }
 
 .review .review-slider .box:hover .fa-quote-right {
-    bottom: -6rem;
+    bottom: -6.5rem;
 }
 
 
