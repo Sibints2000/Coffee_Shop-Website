@@ -109,6 +109,8 @@ section {
 
 .home .row .image {
     flex: 1 1 42rem;
+    padding-top: 10rem;
+    text-align: center;
 }
 
 
