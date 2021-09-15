@@ -185,6 +185,10 @@ section {
     flex:  1 1 42rem;
 }
 
+.about .row .image img {
+    width: 100%;
+}
+
 .about .row .content {
     flex: 1 1 42rem;
 }
