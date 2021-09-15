@@ -174,6 +174,21 @@ section {
     transform: translateY(-2rem);
 }
 
+.about .row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+.about .row .image {
+    flex:  1 1 42rem;
+}
+
+.about .row .content {
+    flex: 1 1 42rem;
+}
+
 
 
 
