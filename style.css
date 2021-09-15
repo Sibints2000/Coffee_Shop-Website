@@ -187,6 +187,7 @@ section {
 
 .about .row .image img {
     width: 100%;
+    animation: aboutImage 4s linear infinite;
 }
 
 .about .row .content {
