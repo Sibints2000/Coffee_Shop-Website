@@ -382,6 +382,12 @@ section {
     background: var(--main-color);
 }
 
+.book {
+    background: url(./image/book-bg.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
 
 
 
