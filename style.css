@@ -369,6 +369,12 @@ section {
     color: var(--main-color);
 }
 
+.swiper-pagination-bullet {
+    height: 1.5rem;
+    width: 1.5rem;
+    border-radius: 0;
+}
+
 
 
 
