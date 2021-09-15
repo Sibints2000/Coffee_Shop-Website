@@ -116,6 +116,14 @@ html {
     
 }
 
+@media(max-width:7680px) {
+
+    #menu-btn {
+        display: initial;
+    }
+
+}
+
 @media(max-width:450px) {
 
     html {
