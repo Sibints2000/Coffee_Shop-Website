@@ -96,6 +96,21 @@ section {
     background-size: cover;
 }
 
+.home .row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+.home .row .content {
+    flex: 1 1 42rem;
+}
+
+.home .row .content {
+    flex: 1 1 42rem;
+}
+
 
 
 
