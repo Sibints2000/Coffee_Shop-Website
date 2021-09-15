@@ -75,3 +75,10 @@ html {
 .header ,.btn {
     margin-top: 0;
 }
+
+#menu-btn {
+    font-size: 3rem;
+    color: var(--main-color);
+    cursor: pointer;
+    display: none;
+}
