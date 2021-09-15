@@ -140,7 +140,7 @@ section {
 }
 
 .home .image-slider img {
-    height: 10rem;
+    height: 9rem;
     margin: 0 .5rem;
     cursor: pointer;
     margin-top: 5rem;
@@ -231,6 +231,11 @@ section {
 
     html {
         font-size: 50%;
+    }
+
+    .home .row .image img {
+        height: auto;
+        width: 100%;
     }
 
 }
