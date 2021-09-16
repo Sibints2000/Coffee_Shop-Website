@@ -444,6 +444,18 @@ section {
     padding-right: 2rem;
 }
 
+.footer .credit {
+    text-align: center;
+    font-size: 2rem;
+    padding: 2rem 1rem;
+    margin-top: 1rem;
+    color: var(--main-color);
+}
+
+.footer .credit span {
+    border-bottom: var(--border-hover);
+}
+
 
 
 
